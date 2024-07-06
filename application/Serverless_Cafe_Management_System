@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T07:12:25.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Vh_fiiKUqyn28Vg6eE2E" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-06T07:16:56.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="t31sjIgl-EIo6mM8nGyL" version="24.6.4" type="github" pages="2">
   <diagram name="High Level Diagram" id="dK_B9Q5XfPZbUf9rQdb1">
     <mxGraphModel dx="3005" dy="2371" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -119,6 +119,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZW8j_4QYgxnYCYnFCeh0-20" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#8C8C8C;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;fontSize=12;fontColor=#FFFFFF;startSize=8;endSize=8;align=center;verticalAlign=middle;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="xtsLYLtcwaAVAvgmt6rU-2" target="ZW8j_4QYgxnYCYnFCeh0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW8j_4QYgxnYCYnFCeh0-43" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#8C8C8C;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;fontSize=12;fontColor=#FFFFFF;startSize=8;endSize=8;align=center;verticalAlign=middle;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="xtsLYLtcwaAVAvgmt6rU-2" target="ZW8j_4QYgxnYCYnFCeh0-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xtsLYLtcwaAVAvgmt6rU-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;rounded=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -263,6 +266,15 @@
         </mxCell>
         <mxCell id="ZW8j_4QYgxnYCYnFCeh0-37" value="Inventory Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=9;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="639" y="732" width="81" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW8j_4QYgxnYCYnFCeh0-44" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#8C8C8C;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;fontSize=12;fontColor=#FFFFFF;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;align=center;verticalAlign=middle;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ZW8j_4QYgxnYCYnFCeh0-41" target="ZW8j_4QYgxnYCYnFCeh0-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW8j_4QYgxnYCYnFCeh0-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;rounded=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-209" y="390" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW8j_4QYgxnYCYnFCeh0-42" value="Rewards Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=9;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-147" y="434" width="81" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
