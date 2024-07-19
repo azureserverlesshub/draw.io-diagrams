@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T20:27:32.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="B1DcKgay4TZnY6KJOjQq" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T20:28:06.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="4UTXi7iwA8wifDsgqUf7" version="24.7.1" type="github">
   <diagram name="Page-1" id="DKV1VwcsXrRnjiJz-i4k">
     <mxGraphModel dx="2326" dy="1080" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="UHU0788PnExEbBg9JHYU-53" value="Exploring the different types of events" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=36;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;fontColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="-230.5" y="473" width="600" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UHU0788PnExEbBg9JHYU-54" value="@ankt_srkr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="535" y="857" width="94" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
