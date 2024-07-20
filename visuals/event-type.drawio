@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T07:40:52.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="s3hYVy8rxQOz-Ui2ICv4" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-20T07:47:34.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ooIAKIw9Dj7kHx4ndHcN" version="24.7.2" type="github">
   <diagram name="Page-1" id="DKV1VwcsXrRnjiJz-i4k">
     <mxGraphModel dx="2021" dy="864" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,8 +103,8 @@
         <mxCell id="UHU0788PnExEbBg9JHYU-52" value="&lt;h1 style=&quot;font-size: 43px;&quot;&gt;Different Event types in Event-driven Architecture&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=43;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-394" y="370" width="916" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="UHU0788PnExEbBg9JHYU-53" value="&lt;h5&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Exploring the different types of events&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;fontColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="441" width="422" height="111" as="geometry" />
+        <mxCell id="UHU0788PnExEbBg9JHYU-53" value="&lt;h5&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Exploring different types of events&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;fontColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="-119" y="441" width="381" height="111" as="geometry" />
         </mxCell>
         <mxCell id="UHU0788PnExEbBg9JHYU-54" value="@ankt_srkr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Indie Flower;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIndie%2BFlower;fontColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="535" y="857" width="94" height="31" as="geometry" />
