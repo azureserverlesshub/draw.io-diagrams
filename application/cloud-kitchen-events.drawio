@@ -277,7 +277,7 @@
         <mxCell id="muGMloWhzh2TePTJm557-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="muGMloWhzh2TePTJm557-29" vertex="1">
           <mxGeometry x="73" width="141" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="muGMloWhzh2TePTJm557-31" value="Create Location" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Josefin Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2BSans;sketch=1;curveFitting=1;jiggle=2;" parent="muGMloWhzh2TePTJm557-29" vertex="1">
+        <mxCell id="muGMloWhzh2TePTJm557-31" value="Register Payment Terminal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Josefin Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2BSans;sketch=1;curveFitting=1;jiggle=2;" parent="muGMloWhzh2TePTJm557-29" vertex="1">
           <mxGeometry x="94.5" y="8" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="muGMloWhzh2TePTJm557-32" value="Command" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Barlow;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow;fontSize=7;sketch=1;curveFitting=1;jiggle=2;" parent="muGMloWhzh2TePTJm557-29" vertex="1">
