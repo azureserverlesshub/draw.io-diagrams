@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.12">
   <diagram name="Page-1" id="EXHx3dKr1RHgXwavZVSH">
-    <mxGraphModel dx="2286" dy="2058" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2536" dy="2058" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
         <mxCell id="muGMloWhzh2TePTJm557-1" value="Store Service" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;fontFamily=Josefin Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2BSans;" parent="1" vertex="1">
-          <mxGeometry x="-830" y="-1081" width="1670" height="1374" as="geometry" />
+          <mxGeometry x="-830" y="-1081" width="743" height="1374" as="geometry" />
         </mxCell>
         <mxCell id="eIIEa7VhEFgGm9EFhxwE-1" value="Physical Stores" style="swimlane;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;glass=0;fillColor=#ffe6cc;strokeColor=#d79b00;swimlaneLine=1;" parent="muGMloWhzh2TePTJm557-1" vertex="1">
           <mxGeometry x="45" y="79" width="645" height="467" as="geometry">
