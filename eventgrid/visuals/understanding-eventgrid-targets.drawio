@@ -1,19 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="Page-1" id="GrYUF8oE6RTdTGo8shkD">
-    <mxGraphModel dx="1868" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1838" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PHdofVUeyuyEODz5zDS9-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;" parent="1" source="PHdofVUeyuyEODz5zDS9-11" target="PHdofVUeyuyEODz5zDS9-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PHdofVUeyuyEODz5zDS9-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Josefin+Sans&quot; face=&quot;Josefin Sans&quot;&gt;EventBus&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="PHdofVUeyuyEODz5zDS9-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Josefin+Sans&quot; face=&quot;Josefin Sans&quot;&gt;EventGrid Topic&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="120" y="200" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PHdofVUeyuyEODz5zDS9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;" parent="1" source="PHdofVUeyuyEODz5zDS9-13" target="PHdofVUeyuyEODz5zDS9-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PHdofVUeyuyEODz5zDS9-2" value="&lt;font face=&quot;Josefin Sans&quot;&gt;Rule&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" parent="1" vertex="1">
+        <mxCell id="PHdofVUeyuyEODz5zDS9-2" value="&lt;font face=&quot;Josefin Sans&quot;&gt;Subscription&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PHdofVUeyuyEODz5zDS9-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Josefin+Sans&quot; face=&quot;Josefin Sans&quot;&gt;Target&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
@@ -67,45 +67,45 @@
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;" edge="1" parent="1" source="CdSDZ0MYqv3ggpqTRvi0-7" target="CdSDZ0MYqv3ggpqTRvi0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Josefin+Sans&quot; face=&quot;Josefin Sans&quot;&gt;EventBus&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="810" y="198.5" width="100" height="30" as="geometry" />
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-2" value="&lt;span style=&quot;font-family: &amp;quot;Josefin Sans&amp;quot;;&quot;&gt;EventGrid Topic&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="969" y="198.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-4" value="&lt;font face=&quot;Josefin Sans&quot;&gt;Rule&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="198.5" width="80" height="30" as="geometry" />
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-4" value="&lt;font face=&quot;Josefin Sans&quot;&gt;Subscription&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="198.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CdSDZ0MYqv3ggpqTRvi0-2" target="CdSDZ0MYqv3ggpqTRvi0-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="930" y="213.5" as="sourcePoint" />
-            <mxPoint x="1010" y="213.5" as="targetPoint" />
+            <mxPoint x="1089" y="213.5" as="sourcePoint" />
+            <mxPoint x="1169" y="213.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-7" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="960" y="203.5" width="30" height="20" as="geometry" />
+          <mxGeometry x="1119" y="203.5" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://a.slack-edge.com/80588/img/services/outgoing-webhook_512.png;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="182.5" width="62" height="62" as="geometry" />
+          <mxGeometry x="1329" y="182.5" width="62" height="62" as="geometry" />
         </mxCell>
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1120" y="214.58" as="sourcePoint" />
-            <mxPoint x="1170" y="214.58" as="targetPoint" />
+            <mxPoint x="1279" y="214.58" as="sourcePoint" />
+            <mxPoint x="1329" y="214.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="180" as="sourcePoint" />
-            <mxPoint x="1200" y="180" as="targetPoint" />
+            <mxPoint x="1009" y="180" as="sourcePoint" />
+            <mxPoint x="1359" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="90" />
-              <mxPoint x="1200" y="90" />
+              <mxPoint x="1009" y="90" />
+              <mxPoint x="1359" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-31" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_blue;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="130" width="30" height="33" as="geometry" />
+          <mxGeometry x="1179" y="130" width="30" height="33" as="geometry" />
         </mxCell>
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-33" value="Bus needs validation&lt;div&gt;to talk to the target (e.g webhook)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Josefin Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2BSans;" vertex="1" parent="1">
-          <mxGeometry x="920" y="90" width="210" height="40" as="geometry" />
+          <mxGeometry x="1079" y="90" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-36" value="What are targets?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Josefin Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2BSans;fontSize=31;" vertex="1" parent="1">
           <mxGeometry x="230" y="335" width="280" height="50" as="geometry" />
@@ -114,18 +114,18 @@
           <mxGeometry x="150" y="385" width="440" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-38" value="Target Validation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Josefin Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2BSans;fontSize=31;" vertex="1" parent="1">
-          <mxGeometry x="890" y="280" width="270" height="50" as="geometry" />
+          <mxGeometry x="1049" y="280" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-41" value="Your Eventbus needs validation to send&amp;nbsp;&lt;div&gt;events to targets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Poppins&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Poppins&quot;&gt;NOTE: Some Azure resources such as EventGrid Triggered&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Poppins&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Poppins&quot;&gt;Function App&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;can autovalidate the targets.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="790" y="325" width="450" height="110" as="geometry" />
+          <mxGeometry x="949" y="325" width="450" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;" edge="1" parent="1" source="CdSDZ0MYqv3ggpqTRvi0-48" target="CdSDZ0MYqv3ggpqTRvi0-44">
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="CdSDZ0MYqv3ggpqTRvi0-48" target="CdSDZ0MYqv3ggpqTRvi0-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-43" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Josefin+Sans&quot; face=&quot;Josefin Sans&quot;&gt;EventBus&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-43" value="&lt;span style=&quot;font-family: &amp;quot;Josefin Sans&amp;quot;;&quot;&gt;EventGrid Topic&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="700" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-44" value="&lt;font face=&quot;Josefin Sans&quot;&gt;Rule&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-44" value="&lt;font face=&quot;Josefin Sans&quot;&gt;Subscription&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="700" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-45" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -137,7 +137,7 @@
             <mxPoint x="130" y="714.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CdSDZ0MYqv3ggpqTRvi0-43" target="CdSDZ0MYqv3ggpqTRvi0-48">
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;endArrow=none;endFill=0;" edge="1" parent="1" source="CdSDZ0MYqv3ggpqTRvi0-43" target="CdSDZ0MYqv3ggpqTRvi0-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="715" as="sourcePoint" />
             <mxPoint x="330" y="715" as="targetPoint" />
@@ -146,23 +146,170 @@
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-48" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="705" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;endArrow=block;endFill=1;entryX=-0.078;entryY=0.432;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CdSDZ0MYqv3ggpqTRvi0-44" target="CdSDZ0MYqv3ggpqTRvi0-53">
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;endArrow=block;endFill=1;entryX=0.008;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CdSDZ0MYqv3ggpqTRvi0-60" target="CdSDZ0MYqv3ggpqTRvi0-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="715" as="sourcePoint" />
-            <mxPoint x="490" y="715" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-51" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot; face=&quot;Caveat&quot;&gt;Filter out events&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="780" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-52" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;dashPattern=1 2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="790" as="sourcePoint" />
-            <mxPoint x="400" y="740" as="targetPoint" />
+            <mxPoint x="315" y="716" as="sourcePoint" />
+            <mxPoint x="571.4642600000002" y="716.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CdSDZ0MYqv3ggpqTRvi0-53" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="1">
-          <mxGeometry x="600" y="698" width="45.33" height="40" as="geometry" />
+          <mxGeometry x="575" y="704" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-55" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://a.slack-edge.com/80588/img/services/outgoing-webhook_512.png;" vertex="1" parent="1">
+          <mxGeometry x="581" y="630" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-58" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Service_Bus.svg;" vertex="1" parent="1">
+          <mxGeometry x="575" y="785" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-60" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="485" y="708" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-65" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="485" y="790" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-71" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="485" y="630" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" target="CdSDZ0MYqv3ggpqTRvi0-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="717.71" as="sourcePoint" />
+            <mxPoint x="496" y="717.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CdSDZ0MYqv3ggpqTRvi0-44" target="CdSDZ0MYqv3ggpqTRvi0-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="727.71" as="sourcePoint" />
+            <mxPoint x="620" y="728" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CdSDZ0MYqv3ggpqTRvi0-44" target="CdSDZ0MYqv3ggpqTRvi0-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="727.71" as="sourcePoint" />
+            <mxPoint x="620" y="728" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;endArrow=block;endFill=1;entryX=0.008;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="799.71" as="sourcePoint" />
+            <mxPoint x="575" y="799.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;endArrow=block;endFill=1;entryX=0.008;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="642" as="sourcePoint" />
+            <mxPoint x="575" y="642" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-78" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Caveat&quot;&gt;Each Subscription supports one&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Caveat&quot;&gt;target only&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="600" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-79" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;dashPattern=1 2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="630" as="sourcePoint" />
+            <mxPoint x="375" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-82" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot; face=&quot;Caveat&quot;&gt;Subscription can have multiple&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot; face=&quot;Caveat&quot;&gt;event type filters&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="785" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-83" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;dashPattern=1 2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="818" as="sourcePoint" />
+            <mxPoint x="380" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-84" value="Webhook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Josefin Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2BSans;" vertex="1" parent="1">
+          <mxGeometry x="556" y="656" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-85" value="Azure Function" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Josefin Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2BSans;" vertex="1" parent="1">
+          <mxGeometry x="541" y="734" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-86" value="Azure Service Bus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Josefin Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2BSans;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="815" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-87" value="Fan out to many services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Josefin Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2BSans;fontSize=31;" vertex="1" parent="1">
+          <mxGeometry x="185" y="870" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-88" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Push events to downstream consumers&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Targets are a range of supported azure resources ior endpoint&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="110" y="920" width="520" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-89" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="889" y="190" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="849" y="215" as="sourcePoint" />
+            <mxPoint x="969" y="214.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;" edge="1" parent="1" source="CdSDZ0MYqv3ggpqTRvi0-99" target="CdSDZ0MYqv3ggpqTRvi0-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-92" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Josefin+Sans&quot; face=&quot;Josefin Sans&quot;&gt;EventGrid Topic&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="707" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-94" value="&lt;font face=&quot;Josefin Sans&quot;&gt;Subscription&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="707" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-96" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="930" y="697" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="722" as="sourcePoint" />
+            <mxPoint x="1010" y="721.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CdSDZ0MYqv3ggpqTRvi0-92" target="CdSDZ0MYqv3ggpqTRvi0-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="722" as="sourcePoint" />
+            <mxPoint x="1210" y="722" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-99" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="712" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-110" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://a.slack-edge.com/80588/img/services/outgoing-webhook_512.png;" vertex="1" parent="1">
+          <mxGeometry x="1456.5" y="620" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-111" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Service_Bus.svg;" vertex="1" parent="1">
+          <mxGeometry x="1454" y="785" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-113" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1364" y="790" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-114" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1364" y="630" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="CdSDZ0MYqv3ggpqTRvi0-114" source="CdSDZ0MYqv3ggpqTRvi0-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1279" y="700" as="sourcePoint" />
+            <mxPoint x="1499" y="728" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="CdSDZ0MYqv3ggpqTRvi0-113" source="CdSDZ0MYqv3ggpqTRvi0-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1279" y="730" as="sourcePoint" />
+            <mxPoint x="1499" y="728" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;endArrow=block;endFill=1;entryX=0.008;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1394" y="799.71" as="sourcePoint" />
+            <mxPoint x="1454" y="799.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;endArrow=block;endFill=1;entryX=0.008;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1394" y="642" as="sourcePoint" />
+            <mxPoint x="1454" y="642" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-120" value="Webhook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Josefin Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2BSans;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="656" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSDZ0MYqv3ggpqTRvi0-122" value="Azure Service Bus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Josefin Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2BSans;" vertex="1" parent="1">
+          <mxGeometry x="1411.5" y="815" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
